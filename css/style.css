@@ -1,0 +1,60 @@
+/*.w-100 {
+    width: 400px !important;
+    height: 600px;
+}
+.r{
+    width: 400px !important;
+    height: 500px;
+}*/
+body{
+    background-color: #e3e3e3;
+    max-width: 1200px;
+    margin: auto;
+    align-content: center;
+}
+.intro{
+    margin-top: 25px;
+}
+.gallery{
+    margin-bottom: 30px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: blueviolet;
+    font-size: larger;
+}
+.about-page{
+    margin: 50px 0px;
+}
+.card{
+    margin: auto;
+    
+}
+.a, .b, .c, .d, .e{
+    margin-bottom: 20px;
+}
+/* #top-section{
+display: flex;
+}#right{
+    float:right;
+}
+#left{
+    float: left;}
+*/
+.col-4>ul{
+    text-align: right;
+}
+
+.carousel{
+    max-width: 600px;
+    margin: auto;
+}
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.5);
+    color:white;
+    font-weight: bold;
+    font-size: larger;
+}
